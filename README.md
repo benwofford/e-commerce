@@ -18,10 +18,6 @@ Categories route: https://drive.google.com/file/d/1EYy0wdcZxFrfwfs0A3L6GdRHz_Jez
 
 This software requires the installation of .dotenv, Express.js, MySQL2 & Sequelize.
 
-## How To Use
-
---
-
 ## Contribute
 
 --
