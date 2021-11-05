@@ -6,7 +6,13 @@ The github repository for this project can be found here: https://github.com/ben
 
 ## Video
 
-A recording of the functionality of this program can be found here:
+Creating & seeding the database then starting the application: https://drive.google.com/file/d/1YzJDzI0St8MnQODxjReNKwPrIVsBpaQT/view
+
+Products route:
+
+Tags route:
+
+Categories route:
 
 ## Packages
 
