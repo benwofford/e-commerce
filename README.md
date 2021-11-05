@@ -8,11 +8,11 @@ The github repository for this project can be found here: https://github.com/ben
 
 Creating & seeding the database then starting the application: https://drive.google.com/file/d/1YzJDzI0St8MnQODxjReNKwPrIVsBpaQT/view
 
-Products route:
+Products route: https://drive.google.com/file/d/1tGHK0HvOWn4z_iUFjoOWACvMWZ2PQiOs/view
 
-Tags route:
+Tags route: https://drive.google.com/file/d/133Elnf2WOoT3pZXfgp4snhwLGx-6_xW8/view
 
-Categories route:
+Categories route: https://drive.google.com/file/d/1EYy0wdcZxFrfwfs0A3L6GdRHz_JezBMq/view
 
 ## Packages
 
